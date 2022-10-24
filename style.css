@@ -1,0 +1,39 @@
+header {
+    background-color: rgba(236,236,236,255);
+}
+
+#Titre {
+    padding: 25px;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+    padding: 80px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+
+#partie {
+    text-align: center;
+    padding: 40px;
+    background-color: red;
+}
+
+#img_présentation {
+    position: right;
+}
+
+#description_présentation {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgba(236,236,236,255);
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
